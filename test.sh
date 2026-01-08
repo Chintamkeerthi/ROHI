@@ -2,3 +2,4 @@
 echo "Test stage running"
 sleep 2
 echo "Tests passed"
+webhook build trigger
